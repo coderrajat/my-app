@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.7fe70b4d.css",
+    "main.js": "/my-app/static/js/main.0379c907.js",
+    "static/js/787.58659dfd.chunk.js": "/my-app/static/js/787.58659dfd.chunk.js",
+    "static/media/bg-2.jpg": "/my-app/static/media/bg-2.b079d8c2929744c877b2.jpg",
+    "static/media/2.png": "/my-app/static/media/2.c3ebb9f9371f936aca93.png",
+    "static/media/why-choose.png": "/my-app/static/media/why-choose.09ac3d19429225fe419a.png",
+    "static/media/1.jpg": "/my-app/static/media/1.5727f76ba79e1e7e9040.jpg",
+    "static/media/bg-1.jpg": "/my-app/static/media/bg-1.7024cb357111c583bd4d.jpg",
+    "static/media/banner-bg.jpg": "/my-app/static/media/banner-bg.460f1feb112779a88e07.jpg",
+    "static/media/slider-3.jpg": "/my-app/static/media/slider-3.2b3c1e2063fb458b4808.jpg",
+    "static/media/logo.jpeg": "/my-app/static/media/logo.27b6c0174048286e60fa.jpeg",
+    "static/media/4b.jpg": "/my-app/static/media/4b.79638ec13a6f0572ee83.jpg",
+    "static/media/5b.jpg": "/my-app/static/media/5b.c441da31d57f70f486ec.jpg",
+    "static/media/3b.jpg": "/my-app/static/media/3b.c37a747e1de4988c463a.jpg",
+    "static/media/Marslogo.png": "/my-app/static/media/Marslogo.19ffeb8e0dcb93e5a78d.png",
+    "static/media/pattern-3.png": "/my-app/static/media/pattern-3.13fc691efb6481c45c7d.png",
+    "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-app/index.html",
+    "main.7fe70b4d.css.map": "/my-app/static/css/main.7fe70b4d.css.map",
+    "main.0379c907.js.map": "/my-app/static/js/main.0379c907.js.map",
+    "787.58659dfd.chunk.js.map": "/my-app/static/js/787.58659dfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fe70b4d.css",
+    "static/js/main.0379c907.js"
+  ]
+}
