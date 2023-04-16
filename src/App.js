@@ -9,7 +9,7 @@ import User_Nav from './Components/User_Nav';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename='/my-app'>
     
     <Routes>
         <Route exact path='/' element={<User_Nav/>}/>
